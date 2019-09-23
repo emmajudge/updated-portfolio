@@ -176,7 +176,8 @@ button.navbar-toggler {
     /* Box-model */   
     padding: 15px 30px;   
     font-size: 16px;   
-    font-weight: lighter;   
+    font-weight: lighter; 
+    margin-left: 15px;   
     /* Typography */   
     color: #fff;  
     /* Visual */   
