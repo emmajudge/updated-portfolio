@@ -162,9 +162,18 @@ button.navbar-toggler {
   .port-image {   
     margin: 20px auto; 
   } 
+
+  .card-body {
+    opacity: .8;
+  }
+
   /* END PORTFOLIO PAGE */ 
   /* CONTACT FORM PAGE  */ 
-  
+  a.contact-link{
+    font-size: 20px;
+    color: #3b512b
+  }
+
   .form-control {   
     /* give input boxes right angles */   
     border-radius: 0;   
@@ -172,6 +181,7 @@ button.navbar-toggler {
     min-width: 100%;   
     max-width: 100%; 
   } 
+
   .submit-btn {   
     /* Box-model */   
     padding: 15px 30px;   
